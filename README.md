@@ -1,2 +1,3 @@
 # HelloWorld
-any thing
+Noob in the world
+Know nothing just wanna figure it out
